@@ -1,0 +1,55 @@
+/*tag body espaço acima*/
+body {
+    padding-top: 50px;
+}
+/*class navbar*/
+.navbar {
+    background-color: #800000;
+}
+/*class navbar*/
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+/*class jumbotron*/
+.jumbotron {
+    background-image: url('background.jpg');
+    color: #198754;
+    text-align: center;
+    padding: 100px;
+}
+/*class section*/
+.section {
+    padding: 50px 0;
+}
+/*class footer rodape*/
+.footer {
+    background-color: #800000;
+    color:#6610f2;
+    text-align: center;
+    padding: 20px;
+}
+/*tag h1*/
+h1{
+    color:black;
+}
+/*tag p* cor do parágrafo/
+p{
+    color:#6610f2;
+    text-align: justify;
+}
+/*id paragrafo alinhamento*/
+#paragrafo{
+
+    text-align: center;
+
+}
+/*id paragrafo1 alinhamento*/
+#paragrafo1{
+
+    text-align: center;
+}
+/*tag img largura*/
+img{
+    
+    width: 300px;
+}
